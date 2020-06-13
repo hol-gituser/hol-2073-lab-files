@@ -1,1 +1,0 @@
-C:\hol\tools\plink.exe -ssh esx-01a.corp.local -l holuser -pw VMware1! "esxcli network nic down -n vmnic2"
